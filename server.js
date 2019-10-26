@@ -3,7 +3,7 @@ const app = express();
 
 // enviroment var for port 
 // for local amchine
-const port = process.env.Port || 3006;
+const port = process.env.port || 3006;
 const expbs =require('express-handlebars');
 
 
