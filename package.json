@@ -1,0 +1,23 @@
+{
+  "name": "onlinedatingapp",
+  "version": "1.0.0",
+  "description": "Online Dating App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Matcha 2.0"
+  },
+  "author": "Johnson Dubula",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "handlebars": "^4.4.5"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
